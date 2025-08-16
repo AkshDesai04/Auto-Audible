@@ -208,3 +208,4 @@ __marimo__/
 
 # Aksh testing and development
 ignore/
+config.json
